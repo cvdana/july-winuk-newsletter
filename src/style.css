@@ -149,7 +149,9 @@ hr {
 .socialmedia i {
   padding-right: 20px;
 }
-
+.socialmedia img {
+  height: 300px;
+}
 .events-recap {
   background-color: #648bb3;
 }
@@ -168,7 +170,6 @@ hr {
   text-align: center;
 }
 .fens {
-  height: 300px;
   width: 500px;
   display: block;
   margin: auto;
@@ -183,12 +184,6 @@ hr {
   background-color: #5983ad;
 }
 
-.adtl {
-  width: 260px;
-  height: 280px;
-  display: block;
-  margin: auto;
-}
 .blog p {
   text-align: center;
 }
@@ -233,7 +228,45 @@ hr {
 .contact-blog {
   text-align: center;
 }
+.blog-review {
+  background-color: var(--blog-review);
+}
+.blog-review h2 {
+  color: var(--third-colour);
+}
 
+.blog-review p,
+.blog-review a,
+.blog-review h3,
+.blog-review ul {
+  color: var(--text-colourbr);
+}
+.blog-review p {
+  padding: 10px;
+}
+.dashed {
+  border: 5px dashed;
+}
+.section-one {
+  background-color: #9bc8c9;
+  text-align: center;
+}
+.section-one ul {
+  text-align: left;
+  margin: 0 auto;
+}
+.section-two {
+  background-color: #d9a0c1;
+}
+.section-three-first {
+  background-color: #f0d0e3;
+}
+.section-three-second {
+  border-color: #86245b;
+}
+.section-four {
+  border-color: #3c5367;
+}
 .events-recap a,
 .research a,
 .paragraph a,
