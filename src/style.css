@@ -227,6 +227,8 @@ hr {
 .blog-review h3,
 .blog-review ul {
   color: #733972;
+  font-weight: bold;
+  font-family: Tahoma;
 }
 .blog-review p {
   padding: 10px;
@@ -235,7 +237,7 @@ hr {
   border: 5px dashed;
 }
 .section-one {
-  background-color: #9bc8c9;
+  background-color: #6bb1b2;
   text-align: center;
 }
 .section-one ul {
@@ -243,10 +245,10 @@ hr {
   margin: 0 auto;
 }
 .section-two {
-  background-color: #d9a0c1;
+  background-color: #dcaac7;
 }
 .section-three-first {
-  background-color: #f0d0e3;
+  background-color: #efc4dd;
 }
 .section-three-second {
   border-color: #86245b;
@@ -264,6 +266,7 @@ hr {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
 @media (max-width: 570px) {
   .container {
     letter-spacing: normal;
