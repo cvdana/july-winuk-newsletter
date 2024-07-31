@@ -227,7 +227,6 @@ hr {
 .blog-review h3,
 .blog-review ul {
   color: #733972;
-  font-weight: bold;
   font-family: Tahoma;
 }
 .blog-review p {
@@ -240,21 +239,18 @@ hr {
   background-color: #6bb1b2;
   text-align: center;
 }
-.section-one ul {
-  text-align: left;
-  margin: 0 auto;
-}
+
 .section-two {
-  background-color: #dcaac7;
+  background-color: #c29cc0;
 }
 .section-three-first {
   background-color: #efc4dd;
 }
 .section-three-second {
-  border-color: #86245b;
+  background-color: #7cb4d2;
 }
 .section-four {
-  border-color: #3c5367;
+  background-color: #da85b8;
 }
 .events-recap a,
 .research a,
